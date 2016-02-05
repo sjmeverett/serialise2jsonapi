@@ -1,0 +1,30 @@
+{
+  "name": "serialise2jsonapi",
+  "version": "0.1.0",
+  "description": "Serialises objects to a JSON API compatible format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartml/serialise2jsonapi.git"
+  },
+  "keywords": [
+    "serialize",
+    "serialise",
+    "json-api",
+    "json",
+    "jsonapi",
+    "rest"
+  ],
+  "author": "Stewart MacKenzie-Leigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stewartml/serialise2jsonapi/issues"
+  },
+  "homepage": "https://github.com/stewartml/serialise2jsonapi#readme",
+  "dependencies": {
+    "clone": "^1.0.2"
+  }
+}
