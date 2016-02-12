@@ -1,8 +1,7 @@
 
 # serialise2jsonapi
 
-I had a look on NPM for JSON API serialisers and they were mostly crap.  So here's an easy-to-use
-one that does more of what you need it to and less of what you don't.
+An easy-to-use JSON:API serialiser that does more of what you need it to and less of what you don't.
 
 It doesn't handle relationships yet, but I intend to add that.
 
