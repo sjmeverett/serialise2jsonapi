@@ -1,6 +1,6 @@
 {
   "name": "serialise2jsonapi",
-  "version": "0.1.0",
+  "version": "0.22.0",
   "description": "Serialises objects to a JSON API compatible format.",
   "main": "index.js",
   "scripts": {
